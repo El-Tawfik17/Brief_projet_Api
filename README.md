@@ -17,9 +17,9 @@
 - Create data with **POST** <p style="background-color:yellow">https://git.heroku.com/lit-ravine-57639.git/api/V1/stats</p>
 
 
-- Get data with **GET** <p style="background-color:yellow">https://lit-ravine-57639.herokuapp.com/api/v1/stats/101</p>
+- Get data with **GET** <p style="background-color:yellow">https://git.heroku.com/footballplayerstats17js.git/api/v1/stats/101</p>
 
-- Update data with **PUT** <p style="background-color:yellow">https://lit-ravine-57639.herokuapp.com/api/v1/stats/101</p>
+- Update data with **PUT** <p style="background-color:yellow">https://git.heroku.com/footballplayerstats17js.git/api/v1/stats/101</p>
 
-- Delete data with **DELETE** <p style="background-color:yellow">https://lit-ravine-57639.herokuapp.com/api/v1/stats/101</p>
+- Delete data with **DELETE** <p style="background-color:yellow">https://git.heroku.com/footballplayerstats17js.git/api/v1/stats/101</p>
 

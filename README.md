@@ -14,12 +14,12 @@
 
 ### how to use This API:
 
-- Create data with **POST** <p style="background-color:yellow">https://git.heroku.com/footballplayerstats17js.com/api/V1/stats</p>
+- Create data with **POST** <p style="background-color:yellow">https://footballplayerstats17js.herokuapp.com/api/V1/stats</p>
 
 
-- Get data with **GET** <p style="background-color:yellow">https://git.heroku.com/footballplayerstats17js.com/api/v1/stats/101</p>
+- Get data with **GET** <p style="background-color:yellow">https://footballplayerstats17js.herokuapp.com/api/v1/stats/101</p>
 
-- Update data with **PUT** <p style="background-color:yellow">https://git.heroku.com/footballplayerstats17js.com/api/v1/stats/101</p>
+- Update data with **PUT** <p style="background-color:yellow">https://footballplayerstats17js.herokuapp.com/api/v1/stats/101</p>
 
-- Delete data with **DELETE** <p style="background-color:yellow">https://git.heroku.com/footballplayerstats17js.com/api/v1/stats/101</p>
+- Delete data with **DELETE** <p style="background-color:yellow">https://footballplayerstats17js.herokuapp.com/api/v1/stats/101</p>
 
